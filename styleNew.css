@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+h1 { font-family: "DM Sans", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100px;
+	color: #A7C3F2;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+   
+
+h2 { font-family: "Cardo", serif;
+    font-weight:bold;
+    font-style: normal;
+    font-size: 65px;
+	padding-left:12px;
+	padding-top: 20px;
+	padding-bottom: 20px;	
+}
+	
+h3 {font-family: "DM Sans", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 80px ; 
+	color: #1f3d2d; 
+}
+
+h5 {font-family: "DM Sans", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size:40px;
+	color: #a7c3f2;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+	
+	
+
+header{
+	background-color:#341617; 
+	padding-top:5%;
+	padding-bottom: 2%;
+	padding-right:0%;
+	padding-left: 0%}
+
+body,h4
+	{
+    background-color:#FAEAD7;
+    font-family: "Cardo", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 60px;
+	color:#341617;
+} 
+
+a{color:#341617;
+	font-weight: bold;
+	background-color:#a7c3f2;
+	font-size: 55px; 
+	text-decoration: none
+
+} 
+
+a:hover {
+	color:#A7C3F2;
+	background-color:#341617; 
+	
+}
+
+p {font-family:"Cardo", serif;
+	font-size: 50px; 
+}
+
+.button a {
+    font-family: "DM Sans", sans-serif;
+	font-size: 0.8em;
+	background-color:#341617;
+    color:#A7C3F2;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+
+.button a:hover {
+	background-color:#A7C3F2;
+	color:#341617;
+}
+
+.center {
+		;display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+}
+
+.wrapper {padding-left: 20%;
+		 padding-right: 20%;
+} 
+
+footer {background:#A7C3F2;
+		padding-bottom: 5%;
+		padding-top: 40px; 
+		padding-left: 20%;
+		padding-right: 20%;
+}
+
+
+section {background:#A7C3F2;
+		padding-bottom:20px;
+		padding-top:2px;
+
+}
+
+main {
+		padding-bottom: 60px;
+		padding-top: 50px;
+
+}
+ 
+.imgfloatright {float: right;
+			
+	
+}
+
+
+
+
+.imgfloatleft {float: left;
+				
+
+
+}
+
+.twoColumn {
+  column-count: 2;
+  column-gap: 80px;
+	padding-left: 20%;
+	padding-right:20%;
+}
+
+.imgcenter {  display: block;
+ 			 margin-left: auto;
+  			margin-right: auto;}
